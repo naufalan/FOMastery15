@@ -1,7 +1,7 @@
 # FOMastery15
 Kumpulan materi FO dari mentoring FO Mastery 15
 
-<!-- http://canarytokens.com/feedback/images/static/2ouctjnfvhxpggow4qe0jdflx/contact.php -->
+![FO pic!](http://canarytokens.com/tags/o1gh4pw8unbbbxr7zt93csqfo/index.html "Philadelphia's Magic Gardens")
 
 ## Day 1 26/01/2020
 
