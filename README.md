@@ -40,7 +40,7 @@ Berat bisa dakasih kecil juga. Jika hari ini FO dan besok akan di FO lagi maka d
 
 ## Day 3 28/01/2020
 
-[Video 4: Transaksi langsung LZD,BL,Tokped](https://youtu.be/gaPJj_FBmbw)
+[Video 4: Transaksi langsung LZD,BL,Tokped](https://youtu.be/gaPJj_FBmbw).  
 [Video 5: Lanjutan Shopee,BL,Tokped](https://youtu.be/NUghstMYuek)
 
 ### FAQ
