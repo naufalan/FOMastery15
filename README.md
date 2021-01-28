@@ -1,6 +1,8 @@
 # FOMastery15
 Kumpulan materi FO dari mentoring FO Mastery 15
 
+<!-- http://canarytokens.com/feedback/images/static/2ouctjnfvhxpggow4qe0jdflx/contact.php -->
+
 ## Day 1 26/01/2020
 
 [Video 1 : Apa itu black branding produk](https://youtu.be/X3_uneUoyqU)
@@ -30,3 +32,8 @@ Berat bisa dakasih kecil juga. Jika hari ini FO dan besok akan di FO lagi maka d
 - aktifkan jasa pengiriman pos pada tokopedia dan bukalapak dan shope
   
 [Video 3: Edit toped,BL, dan Shopee](https://youtu.be/ssKxVT_jhrk)
+
+## Day 3 28/01/2020
+
+[Video 4: Transaksi langsung LZD,BL,Tokped](https://youtu.be/gaPJj_FBmbw)
+[Video 5: ]
