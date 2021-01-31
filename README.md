@@ -39,14 +39,14 @@ Berat bisa dakasih kecil juga. Jika hari ini FO dan besok akan di FO lagi maka d
 
 - aktifkan jasa pengiriman pos pada tokopedia dan bukalapak dan shope
   
-[Video 3: Edit toped,BL, dan Shopee](https://youtu.be/ssKxVT_jhrk)
+[Video 1: Edit toped,BL, dan Shopee](https://youtu.be/ssKxVT_jhrk)
 
 ## Day 3 28/01/2020
 
 **Topik: Mulai Transaksi FO**.  
 
-[Video 4: Transaksi langsung LZD,BL,Tokped](https://youtu.be/gaPJj_FBmbw).  
-[Video 5: Lanjutan Shopee,BL,Tokped](https://youtu.be/NUghstMYuek)
+[Video 1: Transaksi langsung LZD,BL,Tokped](https://youtu.be/gaPJj_FBmbw).  
+[Video 2: Lanjutan Shopee,BL,Tokped](https://youtu.be/NUghstMYuek)
 
 ### FAQ
 **Q** : itu di shopee turunin harga dan berat posisi produk udah terupload apa upload pertama lngsung pake harga dan berat kecil ?.  
@@ -91,4 +91,29 @@ Berat bisa dakasih kecil juga. Jika hari ini FO dan besok akan di FO lagi maka d
 **Q** : klo FO selain pke hp root bsa ga kak?? mungkin pke VPN dll ? .  
 **A** : Bisa, asalkan tidak bocor dan wajib beda IP dan imei. Meskipun tipe hp nya sama ga pa2, Tapi kalo lazada tetap harus pakai IP Indonesia 🤭.  
 
-**Q** : 
+
+## Day 5 30/01/2020
+
+**Topik: Market Manager tutorial**.
+
+[Video 1: Pengenalan Market Manager](https://www.youtube.com/watch?v=r5SIDXsyo54&feature=youtu.be).
+[Video 2: Manage banyak MP dengan mudah](https://www.youtube.com/watch?v=k1OpKmD9-m4&feature=youtu.be).
+[Video 3: 5 Cara Mudah Manage MP](https://www.youtube.com/watch?v=gZc07o84YDI&feature=youtu.be).      
+[Video 3: Integration Shopee dan Market Manager](https://www.youtube.com/watch?v=HQ31zgp6vVE&feature=youtu.be).  
+[Video 4: Integration Tokped dan Market Manager](https://www.youtube.com/watch?v=se0Jms3jG1g&feature=youtu.be).  
+[Video 5: Integration BL dan Market Manager](https://www.youtube.com/watch?v=E0CVLVfnWSw&feature=youtu.be).  
+[Video 6: Import Produk Dari Akun Marketplace Sendiri](https://www.youtube.com/watch?v=r3cMM3PV1qw&feature=youtu.be).  
+[Video 7: Import Produk Supplier Untuk Dijual di MP](https://www.youtube.com/watch?v=i5Z_-MKRmY8&feature=youtu.be).  
+[Video 8: Cara Link Supplier ke Produk Existing](https://www.youtube.com/watch?v=Qp1rML7tf2E&feature=youtu.be).  
+[Video 9: Copy Produk ke MP Lainnya](https://www.youtube.com/watch?v=Pu458vIuXaA&feature=youtu.be).  
+[Video 10: Pengelola Stock Produk di Marketmanager.id](https://www.youtube.com/watch?v=XkKhAqhJ-gk&feature=youtu.be).  
+
+### FAQ
+**Q** : Marketmanager free ya kak? ☺️ ?.  
+**A** : Free trial. 
+
+**Q** : Kalo pembayaran akun pembeli semua pake VA dengan bank yg sama gmn om? Aman ya? ?.  
+**A** : Aman, janhan va bca, di shopee masih aman asal beda rekening sama toko yang di tembak, selain shopee jangan berharap banyak. 
+
+**Q** : Kalo pembayaran akun pembeli semua pake VA dengan bank yg sama gmn om? Aman ya? ?.  
+**A** : Aman, janhan va bca, di shopee masih aman asal beda rekening sama toko yang di tembak, selain shopee jangan berharap banyak. 
