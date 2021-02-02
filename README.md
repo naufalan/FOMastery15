@@ -117,3 +117,10 @@ Berat bisa dakasih kecil juga. Jika hari ini FO dan besok akan di FO lagi maka d
 
 **Q** : Kalo pembayaran akun pembeli semua pake VA dengan bank yg sama gmn om? Aman ya? ?.  
 **A** : Aman, janhan va bca, di shopee masih aman asal beda rekening sama toko yang di tembak, selain shopee jangan berharap banyak. 
+
+## Day 6 31/01/2020
+
+**Topik: Cara Kerja HP Root**.  
+
+[Video 1: Cara Kerja Root](https://www.youtube.com/watch?v=aNhmhp0mkGc&feature=youtu.be).  
+
